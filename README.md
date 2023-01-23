@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **karolinakosciesza/karolinakosciesza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +19,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **karolina.kosciesza.kk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **In kindergarten, I licked the biggest dessert to make sure no one else would eat it.**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
